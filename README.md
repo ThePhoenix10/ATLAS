@@ -1,4 +1,4 @@
-# ATLAS
+# ATLAS: Topology-Aware Multimodal Graph Learning of Integrated Whole-Slide Imaging and Genomics for Cancer Tissue-of-Origin Prediction
 
 <p align="center">
   <img src="ATLAS.png" alt="ATLAS Methodology" width="100%">
